@@ -8,6 +8,6 @@ Rajuk Uttara Model College
   -Secondary School Certificate, Dhaka Board
 
 ### Projects
--Notepad
--Restaurant Management System
--UCart (Ecommerce Website)
+# Notepad
+# Restaurant Management System
+# UCart (Ecommerce Website)
