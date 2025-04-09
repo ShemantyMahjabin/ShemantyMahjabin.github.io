@@ -8,6 +8,15 @@
   - Secondary School Certificate, Dhaka Board
 
 ### Projects
-- Notepad
-- Restaurant Management System
-- UCart (Ecommerce Website)
+- Notepad- https://youtu.be/dndJbdF73_0
+- Restaurant Management System - https://youtu.be/OSnk4Cyh3kg
+- UCart (Ecommerce Website) - 
+
+
+### Programming Languages
+-C
+-C++
+-JAVA
+-Python
+
+
