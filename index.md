@@ -1,7 +1,7 @@
 ---
-layout: default
+#layout: default
 ---
 
 # Shemanty Mahjabin
 
-![My Photo](/IMG_3882.jpg)
+#![My Photo](/IMG_3882.jpg)
