@@ -10,7 +10,7 @@
 ### Projects
 - Notepad- https://youtu.be/dndJbdF73_0
 - Restaurant Management System - https://youtu.be/OSnk4Cyh3kg
-- UCart (Ecommerce Website) - 
+- UCart (Ecommerce Website) 
 
 
 ### Programming Languages
