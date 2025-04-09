@@ -14,9 +14,9 @@
 
 
 ### Programming Languages
--C
--C++
--JAVA
--Python
+- C
+- C++
+- JAVA
+- Python
 
 
